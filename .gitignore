@@ -1,0 +1,15 @@
+# NODE.JS
+node_modules/
+package-lock.json
+
+# PHP
+vendor/
+
+#LOGS
+*.log
+
+# ENV
+.env
+
+# UNWANTED FILES
+.DS_Store
